@@ -87,10 +87,14 @@ I'm a passionate developer with expertise across **Software Engineering**, **Dat
 ## 📊 GitHub Statistics
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayesha9553&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayesha9553&layout=compact&theme=radical)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayesha9553&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true&bg_color=0d1117&text_color=ffffff&title_color=58a6ff)](https://github.com/ayesha9553)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayesha9553&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=ffffff&title_color=58a6ff)](https://github.com/ayesha9553)
+
+### 📈 GitHub Activity
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ayesha9553&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak Stats" />
 
 </div>
 
@@ -108,6 +112,15 @@ I'm a passionate developer with expertise across **Software Engineering**, **Dat
 
 ---
 
+## 📊 Project Statistics
+
+- 💻 **4 Public Repositories** showcasing diverse tech stack
+- 🎓 **Focus Areas**: Web Development, Deep Learning, Computer Vision, Task Management
+- 🚀 **Technologies Used**: Python, JavaScript, TensorFlow, Keras, Node.js, Express
+- 📚 **Continuous Learner**: Always exploring new technologies and best practices
+
+---
+
 ## 🎓 Continuous Learning
 
 I'm constantly expanding my knowledge in:
@@ -115,6 +128,7 @@ I'm constantly expanding my knowledge in:
 - 🔐 Cybersecurity and penetration testing
 - 🌐 Cloud technologies and deployment
 - 📱 Mobile application development
+- 🔬 Research and innovation in AI/ML
 
 ---
 
@@ -142,6 +156,15 @@ I'm always interested in:
 - 💻 Full-stack development is my passion
 - 🎯 I believe in writing clean, maintainable code
 - 🚀 Always up for challenging projects
+- 📊 Fascinated by data-driven solutions and insights
+
+---
+
+## 🔗 Quick Links
+
+- [View My Repositories](https://github.com/ayesha9553?tab=repositories)
+- [Connect on LinkedIn](https://www.linkedin.com/in/ayesha-siddikha-7a5215323)
+- [Explore My Work](https://github.com/ayesha9553)
 
 ---
 
@@ -150,5 +173,7 @@ I'm always interested in:
 **Thanks for visiting my profile! Feel free to explore my repositories and reach out for collaboration opportunities.** 🌟
 
 ⭐ If you find my work interesting, consider giving it a star!
+
+![Star Badge](https://img.shields.io/badge/Made%20with-%E2%9D%A4-red?style=flat-square)
 
 </div>
